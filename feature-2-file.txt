@@ -1,3 +1,3 @@
 feature 2 blue
 feature 2 green
-feature 2 red
+regression 1 red
